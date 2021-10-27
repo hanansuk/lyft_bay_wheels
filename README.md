@@ -1,5 +1,5 @@
-# Project 1
-## Chanan Sukenik
+## Lyft Bay Wheels
+### Hanan Sukenik
 ------------------------------
 
 
